@@ -1,0 +1,20 @@
+{
+  "name": "Tamdeen United",
+  "short_name": "TU",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0078d7",
+  "icons": [
+    {
+      "src": "https://drive.google.com/thumbnail?id=1JQaxW21HNlgoRzmmuOEaSAHZzIzfynL9&sz=192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://drive.google.com/thumbnail?id=1JQaxW21HNlgoRzmmuOEaSAHZzIzfynL9&sz=512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
